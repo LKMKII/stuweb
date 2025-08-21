@@ -1,0 +1,97 @@
+{
+  "title": "MacBook Air 13-inch and MacBook Air 15-inch - Apple",
+  "description": "",
+  "keywords": "",
+  "og_tags": {
+    "image": "https://www.apple.com/v/macbook-air/v/images/meta/macbook_air_mx__ez5y0k5yy7au_og.png?202507301509",
+    "title": "MacBook Air 13-inch and MacBook Air 15-inch",
+    "description": "MacBook Air laptop with the superfast M4 chip. Built for Apple Intelligence. Lightweight, with all-day battery life. Now in a new Sky Blue color.",
+    "url": "https://www.apple.com/macbook-air/",
+    "locale": "en_US",
+    "site_name": "Apple",
+    "type": "website"
+  },
+  "twitter_cards": {
+    "site": "@Apple",
+    "card": "summary_large_image"
+  },
+  "canonical": "https://www.apple.com/macbook-air/",
+  "language": "en-US",
+  "favicon": "",
+  "structured_data": [
+    {
+      "@context": "http://schema.org",
+      "@id": "https://www.apple.com/#organization",
+      "@type": "Organization",
+      "name": "Apple",
+      "url": "https://www.apple.com/",
+      "logo": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202507301509",
+      "subOrganization": {
+        "@type": "Organization",
+        "name": "Apple Support",
+        "url": "https://support.apple.com",
+        "@id": "https://support.apple.com/#organization"
+      },
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+1-800-692-7753",
+          "contactType": "sales",
+          "areaServed": "US"
+        },
+        {
+          "@type": "ContactPoint",
+          "telephone": "+1-800-275-2273",
+          "contactType": "technical support",
+          "areaServed": "US",
+          "availableLanguage": [
+            "EN",
+            "ES"
+          ]
+        },
+        {
+          "@type": "ContactPoint",
+          "telephone": "+1-800-275-2273",
+          "contactType": "customer support",
+          "areaServed": "US",
+          "availableLanguage": [
+            "EN",
+            "ES"
+          ]
+        }
+      ],
+      "sameAs": [
+        "http://www.wikidata.org/entity/Q312",
+        "https://www.youtube.com/user/Apple",
+        "https://www.linkedin.com/company/apple",
+        "https://www.facebook.com/Apple",
+        "https://www.twitter.com/Apple"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Product",
+      "@id": "https://www.apple.com/macbook-air/#product",
+      "manufacturer": {
+        "@id": "https://www.apple.com/#organization"
+      },
+      "brand": {
+        "@id": "https://www.apple.com/mac/#brand"
+      },
+      "name": "MacBook Air 13-inch and MacBook Air 15-inch",
+      "description": "MacBook Air laptop with the superfast M4 chip. Built for Apple Intelligence. Lightweight, with all-day battery life. Now in a new Sky Blue color.",
+      "url": "https://www.apple.com/macbook-air/",
+      "mainEntityOfPage": "https://www.apple.com/macbook-air/",
+      "image": "https://www.apple.com/v/macbook-air/v/images/meta/macbook_air_mx__ez5y0k5yy7au_og.png",
+      "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+          "@id": "https://www.apple.com/#organization"
+        },
+        "url": [
+          "https://www.apple.com/us/shop/goto/buy_mac/macbook_air"
+        ]
+      }
+    }
+  ]
+}
